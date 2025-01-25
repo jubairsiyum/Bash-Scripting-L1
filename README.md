@@ -20,3 +20,8 @@ This Bash script demonstrates:
     chmod +x hello.sh
 3. Run it:
     ./hello.sh
+
+
+## Author
+Name: Jubair Amin Siyum
+Student ID: 0242220005101837
