@@ -23,5 +23,5 @@ This Bash script demonstrates:
 
 
 ## Author
-Name: Jubair Amin Siyum
-Student ID: 0242220005101837
+- **Name:** Jubair Amin Siyum
+- **Student ID:** 0242220005101837
